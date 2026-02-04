@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="alibaba-baba-stock-market-analysis-2014-2023.png" alt=" Alibaba Stock " width="900"/>
+  <a href="https://www.kaggle.com/code/hassanjameelahmed/alibaba-baba-stock-market-dataset-2014-2023" target="_blank">
+    <img src="alibaba-baba-stock-market-analysis-2014-2023.png" alt="alibaba-baba-stock-market" width="800">
+  </a>
 </p>
 
 # 📌 Alibaba Stock Dataset - Quick Reference
